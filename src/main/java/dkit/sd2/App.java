@@ -10,6 +10,8 @@ import java.util.ArrayList;
 public class App {
     public static void main(String[] args) {
         System.out.println("\n*** Inheritance Demo - Employee & Manager ***");
+        System.out.println("\nGithub example 2");
+        System.out.println("\nGithub example 3");
         App app = new App();
         app.start();
     }
